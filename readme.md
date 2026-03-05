@@ -1,9 +1,9 @@
 # Unifaat 2026 — Desenvolvimento Web
 
-Aula 02 — Node.js: Tipos primitivos, escopo léxico e imutabilidade  
+## Aula 02 — Node.js: Tipos primitivos, escopo léxico e imutabilidade  
 Exemplos práticos para rodar no terminal com `node`.
 
-## Estrutura do projeto
+### Estrutura do projeto
 
     .
     ├─ 01-escopo.js
@@ -13,7 +13,7 @@ Exemplos práticos para rodar no terminal com `node`.
 
 Cada arquivo é independente e pode ser executado sozinho.
 
-## Requisitos
+### Requisitos
 
 - Node.js 24
 
@@ -21,7 +21,7 @@ Para conferir:
 
     node -v
 
-## Como executar
+### Como executar
 
 Na pasta do projeto:
 
@@ -30,7 +30,7 @@ Na pasta do projeto:
     node 03-operadores.js
     node 04-event-loop.js
 
-## Objetivo da aula
+### Objetivo da aula
 
 - Entender escopo léxico e como `{}` define blocos
 - Ver diferenças entre `var`, `let` e `const`
